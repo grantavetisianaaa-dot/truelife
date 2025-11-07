@@ -1,16 +1,14 @@
-# truelife
+# TrueLife
 
-truelife
+TrueLife is a modern Flutter application designed to help users explore real stories, mindfulness, and self-improvement.  
+Built with Dart and Flutter, it focuses on simplicity, fast performance, and a clean design.
 
-## Getting Started
+## ✨ Features
+- Beautiful, responsive UI built with Flutter
+- Firebase authentication and backend integration
+- Smooth navigation and state management
+- Cross-platform support (Android & iOS)
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
+To run this project locally:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
