@@ -1,0 +1,102 @@
+{
+  "about": {
+    "title": "TrueLife • Support Armenia",
+    "description": "TrueLife • Support Armenia connects people who care with families and community projects that need help. We verify every story, ensure transparency, and show the real impact of your support."
+  },
+  "account": {
+    "title": "Account",
+    "notLoggedIn": "Not logged in",
+    "yourId": "Your ID: {uid}",
+    "language": "Language",
+    "logout": "Log Out"
+  },
+  "subscription": {
+    "active": "Subscription: Active (${price}/month)",
+    "inactive": "Subscription: Not active"
+  },
+  "membership": {
+    "purchasedBanner": "Membership purchased. We will process your order.",
+    "card": {
+      "title": "Membership Card",
+      "price": "$200",
+      "details": "Fill your info, then pay on Stripe to get your physical membership card.",
+      "purchased": "Membership Card purchased — thank you!"
+    },
+    "full": {
+      "title": "Full Package",
+      "price": "$400",
+      "details": "Fill your info, then pay on Stripe to get your full support package with documents and extras.",
+      "purchased": "Full Package purchased — thank you!"
+    }
+  },
+  "orders": {
+    "header": "Your requests & status",
+    "updateNote": "We update your physical items after payment:",
+    "empty": "You don’t have any requests yet.",
+    "status": {
+      "pending": "Waiting for confirmation",
+      "in_progress": "In progress",
+      "sent": "Sent / delivered",
+      "unknown": "Unknown"
+    },
+    "orderUid": "order uid: {uid}"
+  },
+  "nav": {
+    "about": "About",
+    "news": "News",
+    "events": "Events",
+    "account": "Account"
+  },
+  "snack": {
+    "needSubscription": "You need an active subscription to buy this item."
+  },
+  "events": {
+    "title": "Events",
+    "untitled": "Untitled",
+    "detailTitle": "Event",
+    "subscribed": "You are subscribed successfully!",
+    "lockedBanner": "Become a member to unlock all event details.",
+    "subscribeCta": "Subscribe ${price}/month",
+    "loginToSubscribe": "Please log in to subscribe.",
+    "error": "Error loading events",
+    "empty": "No events yet.",
+    "lockedCard": "Subscribe to view details"
+  },
+  "home": {
+    "title": "Today's Stories",
+    "subscribed": "You are subscribed successfully!",
+    "lockedBanner": "Become a member to unlock all stories.",
+    "subscribeCta": "Subscribe ${price}/month",
+    "loginToSubscribe": "Please log in to subscribe.",
+    "error": "Error loading stories",
+    "empty": "No stories yet.",
+    "lockedCard": "Subscribe to read"
+  },
+  "story": {
+    "detailTitle": "Story",
+    "untitled": "Untitled"
+  },
+  "membershipForm": {
+    "title": "Membership info",
+    "intro": "Fill in your details first. After this you will be redirected to Stripe to pay for your Membership Card.",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "dob": "Date of birth",
+    "dobHint": "YYYY-MM-DD",
+    "phone": "Phone number",
+    "addressHeader": "Shipping address",
+    "street": "Street address",
+    "streetHint": "123 Main Street",
+    "apt": "Apt / Suite",
+    "aptHint": "Apartment or Unit number",
+    "city": "City",
+    "state": "State",
+    "zip": "ZIP code",
+    "required": "Required",
+    "continue": "Continue to payment",
+    "saving": "Saving…",
+    "loginRequired": "You must be logged in",
+    "openFailed": "Could not open payment link",
+    "stripeNote": "Payment is processed securely by Stripe."
+  }
+}
